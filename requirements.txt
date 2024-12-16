@@ -10,5 +10,6 @@ jupyter-book
 
 tensorboard
 torch-tb-profiler
+torchsummary
 
 kagglehub
