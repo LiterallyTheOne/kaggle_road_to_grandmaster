@@ -5,11 +5,10 @@ pandas
 numpy
 
 notebook
-
-jupyter-book
+ipywidgets
 
 tensorboard
 torch-tb-profiler
-torchsummary
+torchinfo
 
 kagglehub
