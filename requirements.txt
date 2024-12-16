@@ -7,3 +7,6 @@ numpy
 notebook
 
 jupyter-book
+
+tensorboard
+torch-tb-profiler
